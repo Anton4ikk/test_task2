@@ -1,7 +1,7 @@
 # Установка проекта
 
 1. Установка зависимостей `npm install`
-2. Установка браузеров playwright `npm install playwright@latest`
+2. Установка браузеров playwright `npx playwright install`
 
 # Запуск тестов
 
